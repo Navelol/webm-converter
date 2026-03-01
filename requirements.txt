@@ -1,0 +1,13 @@
+# Video to WebM Converter - Python Dependencies
+#
+# No pip packages are required. This project uses only the Python standard library:
+#   - tkinter  (GUI framework, bundled with Python)
+#   - subprocess, os, threading, pathlib  (standard library)
+#
+# System Requirements (install separately):
+#   - Python 3.6+   https://www.python.org/downloads/
+#   - FFmpeg        https://ffmpeg.org/download.html
+#
+# If tkinter is missing on Linux, install it via your package manager:
+#   Ubuntu/Debian:  sudo apt-get install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter

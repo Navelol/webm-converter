@@ -23,6 +23,8 @@ A simple, easy-to-use GUI application for converting video files (AVI, MP4, MKV,
 
 ### Prerequisites
 
+This project has **no pip packages** — see [requirements.txt](../requirements.txt) for details. You only need to install the following system-level dependencies:
+
 1. **Python 3.6 or higher**
    - Check version: `python3 --version`
    - Download from: https://www.python.org/downloads/
