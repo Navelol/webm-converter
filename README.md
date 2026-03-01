@@ -1,4 +1,4 @@
-# 🎬 Video to WebM Converter
+# Video to WebM Converter
 
 A simple, easy-to-use GUI application for converting video files (AVI, MP4, MKV, MOV, etc.) to WebM format.
 
@@ -6,14 +6,14 @@ A simple, easy-to-use GUI application for converting video files (AVI, MP4, MKV,
 
 ## Features
 
-- 🎨 **Clean GUI Interface** - Easy to use graphical interface
-- 🖱️ **Simple File Selection** - Click to browse and select video files
-- ⚙️ **Quality Control** - Adjustable quality settings (CRF 20-40)
-- 🔄 **Codec Selection** - Choose between VP9 (better compression) or VP8 (faster)
-- 📊 **Progress Indicator** - See conversion progress in real-time
-- ✅ **File Size Comparison** - Compare original and converted file sizes
-- 🔒 **Local Processing** - Everything runs on your computer, no uploads
-- 💻 **Cross-Platform** - Works on Windows, macOS, and Linux
+- **Clean GUI Interface** - Easy to use graphical interface
+- **Simple File Selection** - Click to browse and select video files
+- **Quality Control** - Adjustable quality settings (CRF 20-40)
+- **Codec Selection** - Choose between VP9 (better compression) or VP8 (faster)
+- **Progress Indicator** - See conversion progress in real-time
+- **File Size Comparison** - Compare original and converted file sizes
+- **Local Processing** - Everything runs on your computer, no uploads
+- **Cross-Platform** - Works on Windows, macOS, and Linux
 
 ## Screenshots
 <img width="599" height="499" alt="image" src="https://github.com/user-attachments/assets/78c678b9-73d5-4d56-ad30-f37ac595874f" />
@@ -76,6 +76,8 @@ Or on Windows:
 python video-converter-gui.py
 ```
 
+**Windows shortcut:** A `WebM Converter.bat` file is included in the `src/` folder. Double-clicking it will launch the application directly without opening a terminal window — no command line required.
+
 ## Usage
 
 1. **Launch the application**
@@ -127,7 +129,7 @@ python video-converter-gui.py
 | File Size | Smaller | Larger |
 | Encoding Speed | Slower | Faster |
 | Quality | Better | Good |
-| **Recommended** | ✅ Yes | For quick conversions |
+| **Recommended** | Yes | For quick conversions |
 
 ## Troubleshooting
 
@@ -219,7 +221,7 @@ ffmpeg -i input.mp4 \
 
 ## License
 
-This project is free and open source. Use it however you like!
+This project is licensed under the MIT License. See [LICENSE](../LICENSE) for the full text.
 
 ## Contributing
 
@@ -239,5 +241,3 @@ If you encounter issues:
 4. Check that input video is valid and not corrupted
 
 ---
-
-**Made with ❤️ for easy video conversion**
