@@ -16,25 +16,8 @@ A simple, easy-to-use GUI application for converting video files (AVI, MP4, MKV,
 - 💻 **Cross-Platform** - Works on Windows, macOS, and Linux
 
 ## Screenshots
+<img width="599" height="499" alt="image" src="https://github.com/user-attachments/assets/78c678b9-73d5-4d56-ad30-f37ac595874f" />
 
-```
-┌─────────────────────────────────────────┐
-│   🎬 Video to WebM Converter            │
-├─────────────────────────────────────────┤
-│  ┌─── Input Video ──────────────────┐  │
-│  │         📁                        │  │
-│  │  Click to browse for video       │  │
-│  └──────────────────────────────────┘  │
-│                                         │
-│  ┌─── Conversion Settings ─────────┐  │
-│  │ Quality: Medium (CRF 30)        │  │
-│  │ ━━━━━━━━━━○━━━━━━━━━━           │  │
-│  │ Codec: VP9 (Recommended)  ▼     │  │
-│  └──────────────────────────────────┘  │
-│                                         │
-│  [     Convert to WebM     ]           │
-└─────────────────────────────────────────┘
-```
 
 ## Installation
 
